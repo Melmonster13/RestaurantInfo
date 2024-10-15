@@ -1,0 +1,1 @@
+This is a project for a college-level course regarding git repositories and the Java language. This particular application is supposed to list a restaurant's name, address, and city, state, and zip code. 
