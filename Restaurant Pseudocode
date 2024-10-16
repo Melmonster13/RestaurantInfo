@@ -1,0 +1,15 @@
+/*
+ * Name: Melanie Cadd
+ * Course: CSC320: Programming I
+ * Assignment: Module 1 CT Option 2
+ * Date: October 13, 2024
+ * Description: This Java program prints the restaurant name, business address, and city, state, and zip code.
+ */
+
+ 1. Start
+ 2. Declare variables: restaurantName, businessAddress, cityStateZip
+ 3. Initialize variables with values
+ 4. Print restaurantName
+ 5. Print businessAddress
+ 6. Print cityStateZip
+ 7. End
